@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">PC01ESPERILLA</string>
+    <string name="btnCalcular">Calculate</string>
+    <string name="txtTalla">Size</string>
+    <string name="txtPeso">Weight</string>
+    <string name="txtResultado">Outcome : </string>
+    <string name="txtRecomendacion">Recommendation : </string>
+    <string name="textimc">You IMC is : </string>
+
+    <string name="rec1">YOU HAVE **** LACK OF WEIGHT ***: You may need to increase your weight,
+        so we recommend you go to the endocrinologist so that he is the one who diagnoses the problem</string>
+    <string name="rec2">YOU HAVE **** CONGRATULATIONS YOU ARE ON YOUR WEIGHT! ***: so we recommend you go to the endocrinologist to be him</string>
+    <string name="rec3">YOU ARE **** OVERWEIGHT ***: In any case, this calculation is always intuitive and
+        Other factors such as age influence, so we recommend you go to the endocrinologist so that he is the one who diagnoses the problem.</string>
+    <string name="rec4">YOU HAVE **** YOU HAVE OBESITY ***: A problem that, if we do not provide a solution, can lead to
+        some complication for our health. However, in any case, this calculation is always intuitive and other factors such as age influence.</string>
+    <string name="rec5">YOU HAVE **** YOU HAVE STRONG OBESITY ***: it is a severe obesity that you have to try to remedy
+        to enjoy a healthier life. In any case, this calculation is always intuitive and other factors such as the
+        age, so we recommend you go to the endocrinologist so that he is the one who diagnoses the problem.</string>
+    <string name="imc">IMC</string>
+</resources>

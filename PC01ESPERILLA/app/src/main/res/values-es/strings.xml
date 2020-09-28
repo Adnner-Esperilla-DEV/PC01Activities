@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtTalla">Talla</string>
+    <string name="txtPeso">Peso</string>
+    <string name="txtResultado">Resultado : </string>
+    <string name="txtRecomendacion">Recomendacion : </string>
+    <string name="textimc">Tu IMC ES : </string>
+    <string name="rec1">USTED TIENE  ****FALTA DE PESO*** : Es posible que necesites aumentar tu peso,
+        por lo que te recomendamos acudir al endocrino para que sea él, el que diagnostique el problema</string>
+    <string name="rec2">USTED TIENE  ****FELICIDADES ESTAS EN TU PESO !*** :por lo que te recomendamos acudir al endocrino para que sea él </string>
+    <string name="rec3">USTED TIENE  ****SOBREPESO*** :En cualquier caso, este cálculo es siempre intuitivo e
+        influyen otros factores como la edad, por lo que te recomendamos acudir al endocrino para que sea él, el que diagnostique el problema.</string>
+    <string name="rec4">USTED TIENE  ****USTED TIENE OBESIDAD*** : Un problema al que, si no ponemos solución, nos puede acarrear
+        alguna complicación para nuestra salud. No obstante, en cualquier caso, este cálculo es siempre intuitivo e influyen otros factores como la edad.</string>
+    <string name="rec5">USTED TIENE  ****USTED FUERTE OBESIDAD*** : se trata de una fuerte obesidad a la que hay que intentar poner remedio
+        para disfrutar de una vida más saludable. En cualquier caso, este cálculo es siempre intuitivo e influyen otros factores como la
+        edad, por lo que te recomendamos acudir al endocrino para que sea él, el que diagnostique el problema.</string>
+    <string name="imc">IMC</string>
+</resources>
